@@ -1,0 +1,23 @@
+[
+        {
+            "ParameterKey": "GitHubUser",
+            "ParameterValue": "vtluu"
+        },
+        {
+            "ParameterKey": "EnvironmentName",
+            "ParameterValue": "DEV"
+        },
+        {
+            "ParameterKey": "GitHubBranch",
+            "ParameterValue": "master"
+        },
+        {
+            "ParameterKey": "GitHubToken",
+            "ParameterValue": "fe5efebf4a3bfea3567258bea876306ed37fc786"
+        },
+        {
+            "ParameterKey": "GitHubRepo",
+            "ParameterValue": "socket.io-chat-fargate"
+        }
+]
+
